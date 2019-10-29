@@ -7,4 +7,5 @@ def position_taken?(board,number)
   else
     return true
   end
+  x
 end
